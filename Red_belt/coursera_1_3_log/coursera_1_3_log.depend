@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1567759029 source:c:\dev\cppprojects\red belt\coursera_1_3_log\test_runner.cpp
+	"test_runner.h"
+
+1569050933 c:\dev\cppprojects\red belt\coursera_1_3_log\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1569076018 source:c:\dev\cppprojects\red belt\coursera_1_3_log\coursera_1_3_log.cpp
+	"test_runner.h"
+	<sstream>
+	<string>
+

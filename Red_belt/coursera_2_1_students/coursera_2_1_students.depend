@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_2_1_students\test_runner.cpp
+	"test_runner.h"
+
+1569050933 c:\dev\cppprojects\red_belt\coursera_2_1_students\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1569869506 source:c:\dev\cppprojects\red_belt\coursera_2_1_students\sort_students.cpp
+	"student.h"
+	"test_runner.h"
+	"profile.h"
+	<algorithm>
+
+1569869168 c:\dev\cppprojects\red_belt\coursera_2_1_students\student.h
+	<map>
+	<string>
+
+1569869356 c:\dev\cppprojects\red_belt\coursera_2_1_students\profile.h
+	<chrono>
+	<iostream>
+	<string>
+

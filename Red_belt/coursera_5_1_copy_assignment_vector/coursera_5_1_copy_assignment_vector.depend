@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_5_1_copy_assignment_vector\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_5_1_copy_assignment_vector\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1571666234 source:c:\dev\cppprojects\red_belt\coursera_5_1_copy_assignment_vector\simple_vector.cpp
+
+1571666275 c:\dev\cppprojects\red_belt\coursera_5_1_copy_assignment_vector\simple_vector.h
+	<cstdlib>
+	<algorithm>
+	<iostream>
+
+1571666250 source:c:\dev\cppprojects\red_belt\coursera_5_1_copy_assignment_vector\simple_vector_copy_assignment.cpp
+	"simple_vector.h"
+	"test_runner.h"
+	<numeric>
+	<vector>
+	<tuple>
+

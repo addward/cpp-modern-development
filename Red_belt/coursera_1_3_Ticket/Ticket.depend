@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567759029 source:c:\dev\cppprojects\red belt\coursera_1_3_ticket\test_runner.cpp
+	"test_runner.h"
+
+1569050933 c:\dev\cppprojects\red belt\coursera_1_3_ticket\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1569218337 source:c:\dev\cppprojects\red belt\coursera_1_3_ticket\sort_by.cpp
+	"airline_ticket.h"
+	"test_runner.h"
+	<algorithm>
+	<numeric>
+
+1569218109 c:\dev\cppprojects\red belt\coursera_1_3_ticket\airline_ticket.h
+	<string>
+	<vector>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1571258107 source:c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\stats.cpp
+	"stats.h"
+	<iostream>
+
+1571257747 c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\stats.h
+	"http_request.h"
+	<string_view>
+	<map>
+
+1571255044 c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\http_request.h
+	<string_view>
+
+1571258222 source:c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\server_stats.cpp
+	"test_runner.h"
+	"http_request.h"
+	"stats.h"
+	<map>
+	<string_view>
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_4_1_htmlrequests\test_runner.cpp
+	"test_runner.h"
+

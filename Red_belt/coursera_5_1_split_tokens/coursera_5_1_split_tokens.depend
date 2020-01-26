@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_5_1_split_tokens\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_5_1_split_tokens\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1571677137 source:c:\dev\cppprojects\red_belt\coursera_5_1_split_tokens\split_into_sentences.cpp
+	"test_runner.h"
+	<vector>
+

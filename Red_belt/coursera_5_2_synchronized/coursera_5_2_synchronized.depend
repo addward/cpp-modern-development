@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_5_2_synchronized\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_5_2_synchronized\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1572377121 source:c:\dev\cppprojects\red_belt\coursera_5_2_synchronized\synchronized.cpp
+	"test_runner.h"
+	<numeric>
+	<vector>
+	<string>
+	<future>
+	<mutex>
+	<queue>
+	<thread>
+

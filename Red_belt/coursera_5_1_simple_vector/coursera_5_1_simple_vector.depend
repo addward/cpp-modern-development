@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_5_1_simple_vector\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_5_1_simple_vector\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1571836454 source:c:\dev\cppprojects\red_belt\coursera_5_1_simple_vector\simple_vector_2.cpp
+	"simple_vector_2.h"
+	"test_runner.h"
+	<algorithm>
+	<iostream>
+	<vector>
+	<string>
+
+1571837699 c:\dev\cppprojects\red_belt\coursera_5_1_simple_vector\simple_vector_2.h
+	<cstdint>
+	<cstdlib>
+	<algorithm>
+	<iostream>
+

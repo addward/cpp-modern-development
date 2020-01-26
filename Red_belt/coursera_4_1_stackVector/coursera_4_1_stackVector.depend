@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_4_1_stackvector\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_4_1_stackvector\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1570609747 source:c:\dev\cppprojects\red_belt\coursera_4_1_stackvector\stack_vector.cpp
+	"stack_vector.h"
+	"test_runner.h"
+	"profile.h"
+	<random>
+	<stdexcept>
+
+1570617200 c:\dev\cppprojects\red_belt\coursera_4_1_stackvector\stack_vector.h
+	<stdexcept>
+	<array>
+
+1569869356 c:\dev\cppprojects\red_belt\coursera_4_1_stackvector\profile.h
+	<chrono>
+	<iostream>
+	<string>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_4_1_texteditor\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_4_1_texteditor\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1571125710 source:c:\dev\cppprojects\red_belt\coursera_4_1_texteditor\text_editor.cpp
+	<string>
+	<string_view>
+	<list>
+	"test_runner.h"
+	"profile.h"
+
+1569869356 c:\dev\cppprojects\red_belt\coursera_4_1_texteditor\profile.h
+	<chrono>
+	<iostream>
+	<string>
+

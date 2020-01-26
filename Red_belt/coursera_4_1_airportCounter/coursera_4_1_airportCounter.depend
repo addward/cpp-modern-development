@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_4_1_airportcounter\test_runner.cpp
+	"test_runner.h"
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_4_1_airportcounter\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1570732576 source:c:\dev\cppprojects\red_belt\coursera_4_1_airportcounter\airport_counter.cpp
+	"test_runner.h"
+	"profile.h"
+	<algorithm>
+	<array>
+	<iostream>
+	<random>
+	<vector>
+
+1569869356 c:\dev\cppprojects\red_belt\coursera_4_1_airportcounter\profile.h
+	<chrono>
+	<iostream>
+	<string>
+

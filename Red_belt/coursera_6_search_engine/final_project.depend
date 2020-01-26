@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1526389097 source:c:\dev\cppprojects\red_belt\coursera_6_search_engine\parse.cpp
+	"parse.h"
+
+1526389097 c:\dev\cppprojects\red_belt\coursera_6_search_engine\parse.h
+	"iterator_range.h"
+	<string_view>
+	<sstream>
+	<vector>
+
+1526389097 c:\dev\cppprojects\red_belt\coursera_6_search_engine\iterator_range.h
+	<algorithm>
+
+1574325096 source:c:\dev\cppprojects\red_belt\coursera_6_search_engine\search_server.cpp
+	"search_server.h"
+	"iterator_range.h"
+	"profile.h"
+	<algorithm>
+	<iterator>
+	<sstream>
+	<iostream>
+	<set>
+	<numeric>
+
+1574324437 c:\dev\cppprojects\red_belt\coursera_6_search_engine\search_server.h
+	<istream>
+	<ostream>
+	<set>
+	<list>
+	<vector>
+	<map>
+	<string>
+	<future>
+
+1574320476 source:c:\dev\cppprojects\red_belt\coursera_6_search_engine\main.cpp
+	"search_server.h"
+	"parse.h"
+	"test_runner.h"
+	"profile.h"
+	<algorithm>
+	<iterator>
+	<map>
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+	<random>
+	<thread>
+
+1569849373 c:\dev\cppprojects\red_belt\coursera_6_search_engine\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1569420489 source:c:\dev\cppprojects\red_belt\coursera_6_search_engine\test_runner.cpp
+	"test_runner.h"
+
+1574067917 c:\dev\cppprojects\red_belt\coursera_6_search_engine\profile.h
+	<chrono>
+	<iostream>
+	<string>
+

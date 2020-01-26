@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1567494144 source:c:\dev\cppprojects\yellow belt\finalproject_database\token.cpp
+	"token.h"
+	<stdexcept>
+
+1567518428 c:\dev\cppprojects\yellow belt\finalproject_database\token.h
+	<sstream>
+	<vector>
+
+1567840399 source:c:\dev\cppprojects\yellow belt\finalproject_database\date.cpp
+	"date.h"
+	<vector>
+	<iomanip>
+
+1567757751 c:\dev\cppprojects\yellow belt\finalproject_database\date.h
+	<iostream>
+	<sstream>
+
+1567759029 source:c:\dev\cppprojects\yellow belt\finalproject_database\test_runner.cpp
+	"test_runner.h"
+
+1567759024 c:\dev\cppprojects\yellow belt\finalproject_database\test_runner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1567765111 source:c:\dev\cppprojects\yellow belt\finalproject_database\condition_parser.cpp
+	"condition_parser.h"
+	"token.h"
+	"date.h"
+	<map>
+
+1567838227 c:\dev\cppprojects\yellow belt\finalproject_database\condition_parser.h
+	"node.h"
+	<memory>
+	<iostream>
+
+1567941859 c:\dev\cppprojects\yellow belt\finalproject_database\node.h
+	<memory>
+	"date.h"
+
+1567838227 source:c:\dev\cppprojects\yellow belt\finalproject_database\condition_parser_test.cpp
+	"condition_parser.h"
+	"test_runner.h"
+	"node.h"
+	"database.h"
+	<sstream>
+
+1568052482 source:c:\dev\cppprojects\yellow belt\finalproject_database\database.cpp
+	"database.h"
+	"algorithm"
+
+1568052503 c:\dev\cppprojects\yellow belt\finalproject_database\database.h
+	<ostream>
+	<list>
+	<vector>
+	<map>
+	"date.h"
+
+1567955589 source:c:\dev\cppprojects\yellow belt\finalproject_database\main.cpp
+	"database.h"
+	"date.h"
+	"condition_parser.h"
+	"node.h"
+	"test_runner.h"
+	<iostream>
+	<stdexcept>
+	<algorithm>
+
+1567941866 source:c:\dev\cppprojects\yellow belt\finalproject_database\node.cpp
+	"node.h"
+
+1567840119 source:c:\dev\cppprojects\yellow belt\finalproject_database\database_test.cpp
+	"database.h"
+	"test_runner.h"
+	"node.h"
+
